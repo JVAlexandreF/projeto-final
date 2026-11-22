@@ -94,15 +94,15 @@ header {
 }
 
 #rede1:hover { 
-    content: url('/images/btn_zp_yellow.png'); 
+    content: url('images/btn_zp_yellow.png'); 
 }
 
 #rede2:hover { 
-    content: url('/images/btn_in_yellow.png'); 
+    content: url('images/btn_in_yellow.png'); 
 }
 
 #rede3:hover { 
-    content: url('/images/btn_git_yellow.png'); 
+    content: url('images/btn_git_yellow.png'); 
 }
 
 /* Configuração do Banner */
